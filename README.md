@@ -1,2 +1,2 @@
 # webshop-javascript-beadando
-Megtekintheto itt: https://prefixboxbeadandocss.netlify.app/
+Megtekintheto itt: https://prefixboxbeadandojavascript.netlify.app/
